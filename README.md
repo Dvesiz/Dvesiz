@@ -1,11 +1,41 @@
+👋 你好，我是 Dvesiz
 
-来自江苏泰兴的热情大学生，沉浸在 Web 开发的世界中。热衷于构建创新应用，并贡献开源项目。让我们一起编码吧！
-👀 我感兴趣的事：全栈 Web 开发、Java 后端、Vue.js 前端，以及探索现代框架来打造无缝用户体验。
-🌱 我目前在学习：用 Java（Spring Boot）进行后端开发，以及 Vue.js 前端。
-💞️ 我想合作的项目：开源 Web 项目、Java/Vue 应用，或任何全栈创新。
-📫 联系我：欢迎通过 GitHub Issues，或邮箱：2207547110@qq.com
+🎓 来自 江苏泰兴 的热情大学生
+💻 沉浸于 Web 开发 的世界，热衷构建高质量、可扩展的应用
+🚀 积极参与并贡献 开源项目，期待与更多开发者一起成长
 
-<!---
-Dvesiz/Dvesiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 我感兴趣的方向
+
+🌐 全栈 Web 开发
+
+☕ Java 后端开发
+
+🖼️ Vue.js 前端开发
+
+⚙️ 现代 Web 框架与工程化实践
+
+✨ 打造流畅、优雅的用户体验
+
+🌱 我正在学习
+
+🔧 使用 Java + Spring Boot 构建稳定高效的后端服务
+
+🎨 使用 Vue.js 开发现代化前端应用
+
+📦 前后端分离架构与 RESTful API 设计
+
+💞️ 我希望合作的项目
+
+🔓 开源 Web 项目
+
+🧩 Java / Vue 全栈应用
+
+💡 任何有创意、有挑战性的技术项目
+
+📫 联系我
+
+🐙 GitHub：欢迎通过 Issues 或 Discussions 交流
+
+📧 邮箱：2207547110@qq.com
+
+💬 让我们一起编码，把想法变成现实！
