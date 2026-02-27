@@ -36,6 +36,6 @@
 
 🐙 GitHub：欢迎通过 Issues 或 Discussions 交流
 
-📧 邮箱：2207547110@qq.com
+📧 邮箱：dvesiz@qq.com
 
 💬 让我们一起编码，把想法变成现实！
